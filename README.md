@@ -1,4 +1,3 @@
-
 # 👋 ¡Hola! Soy Mauricio Belforte
 
 💻 Desarrollador web Front-End , y estoy capacitandome para tener un perfil completo Full-Stack. Me encanta combinar diseño con código y estoy siempre aprendiendo nuevas herramientas para llevar la experiencia web al siguiente nivel.
@@ -63,6 +62,9 @@
     </td>
   </tr>
 </table>
+
+---
+
 ## 🛠️ Tecnologías y herramientas
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
