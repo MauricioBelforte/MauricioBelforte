@@ -16,7 +16,7 @@
         <strong>Toscanes</strong>
       </a>
       <p>Landing page para grupo inmobiliario con menú desplegable.</p>
-      <a href="#">🔗 Ver código</a>
+      <!-- <a href="#">🔗 Ver código</a> -->
     </td>
     <td align="center">
       <a href="https://mauriciobelforte.github.io/radio-Santa-Barbara/" target="_blank">
