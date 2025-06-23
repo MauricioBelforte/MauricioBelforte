@@ -91,20 +91,19 @@
 ## 📜 Certificaciones
 
 
-<div style="display: flex; align-items: center; justify-items:start; flex-wrap: wrap;">
-
-  <!-- Badge + título con enlace a la página general -->
-  <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/" target="_blank" style="display: inline-flex; align-items: center; gap: 5px; text-decoration: none;">
-    <img src="img/microsoft-certified-fundamentals-badge.svg" width="60" alt="Microsoft Certified Badge"/>
-    <span style="font-weight: bold; color: black;">Microsoft Certified: Azure Data Fundamentals (DP-900)</span>
-  </a>
-
-  
-  <a href="https://learn.microsoft.com/api/credentials/share/es-es/MauricioBelforte-6606/A987B97A69A925D4?sharingId=ACB4EC30FF9E11B4" target="_blank" style="text-decoration: none; font-weight: bold; color: #0078D4; margin-left: 16px">
-    🔗 Ver credencial oficial
-  </a>
-
-</div>
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/" target="_blank">
+        <img src="img/microsoft-certified-fundamentals-badge.svg" width="60" alt="Azure Badge"/>
+      </a>
+    </td>
+    <td valign="middle" style="padding-left: 10px;">
+      <strong>Microsoft Certified: Azure Data Fundamentals (DP-900)</strong><br/>
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/MauricioBelforte-6606/A987B97A69A925D4?sharingId=ACB4EC30FF9E11B4" target="_blank">Ver credencial oficial</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
