@@ -75,6 +75,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
@@ -84,6 +85,26 @@
 
 ![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioBelforte&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioBelforte&layout=compact&theme=tokyonight)
+
+---
+
+## 📜 Certificaciones
+
+
+<div style="display: flex; align-items: center; justify-items:start; flex-wrap: wrap;">
+
+  <!-- Badge + título con enlace a la página general -->
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/" target="_blank" style="display: inline-flex; align-items: center; gap: 5px; text-decoration: none;">
+    <img src="img/microsoft-certified-fundamentals-badge.svg" width="60" alt="Microsoft Certified Badge"/>
+    <span style="font-weight: bold; color: black;">Microsoft Certified: Azure Data Fundamentals (DP-900)</span>
+  </a>
+
+  
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/MauricioBelforte-6606/A987B97A69A925D4?sharingId=ACB4EC30FF9E11B4" target="_blank" style="text-decoration: none; font-weight: bold; color: #0078D4; margin-left: 16px">
+    🔗 Ver credencial oficial
+  </a>
+
+</div>
 
 ---
 
