@@ -99,8 +99,10 @@
       </a>
     </td>
     <td valign="middle" style="padding-left: 10px;">
-      <strong>Microsoft Certified: Azure Data Fundamentals (DP-900)</strong><br/>
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/MauricioBelforte-6606/A987B97A69A925D4?sharingId=ACB4EC30FF9E11B4" target="_blank">Ver credencial oficial</a>
+      <div style="text-align: center;">
+        <strong>Microsoft Certified: Azure Data Fundamentals (DP-900)</strong><br/>
+        <a href="https://learn.microsoft.com/api/credentials/share/es-es/MauricioBelforte-6606/A987B97A69A925D4?sharingId=ACB4EC30FF9E11B4" target="_blank">Ver credencial oficial</a>
+      </div>
     </td>
   </tr>
 </table>
